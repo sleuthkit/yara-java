@@ -1,0 +1,21 @@
+﻿  yara-wrapper_structs.c
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(90): warning C4244: 'return': conversion from 'int64_t' to 'int', possible loss of data
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(147): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(162): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(197): warning C4090: '=': different 'const' qualifiers
+  yara-wrapper_stats.c
+  yara-wrapper.c
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(90): warning C4244: 'return': conversion from 'int64_t' to 'int', possible loss of data
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(147): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(162): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\yara-wrapper.h(197): warning C4090: '=': different 'const' qualifiers
+  hawtjni.c
+  hawtjni-callback.c
+c:\users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\src\hawtjni-callback.c(779): warning C4244: 'return': conversion from 'jlong' to 'jint', possible loss of data
+  Generating Code...
+  vs2010.vcxproj -> C:\Users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\/target/Win32-Debug/lib\yara-wrapper.dll
+  vs2010.vcxproj -> C:\Users\brianc\tmp\yara\yara-java\target\generated-sources\hawtjni\native-package\/target/Win32-Debug/lib\yara-wrapper.pdb (Full PDB)
